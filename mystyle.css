@@ -30,3 +30,8 @@ section{
 	background-color: #fff;
 	align-items: center;
 }
+section2{
+	justify-content: center;
+	display: flex;
+	align-items: center;
+}
